@@ -5,7 +5,7 @@ import re
 
 hideBoard = types.ReplyKeyboardRemove()
 
-token = '5487102580:AAFFTuH-Ixy3o1HMVVS7zE_THLVGK_RphHU'
+token = '******************'
 bot = telebot.TeleBot(token)
 
 
